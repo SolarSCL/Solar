@@ -22,7 +22,7 @@ Solar (pronounced [soˈlaɾ]) is a .......
 3. Описание событий элемента. В этой части Solar дает подробную расшифровку события. Начиная от оценки уровня критичности события, заканчивая рекомендациями, если Solar может их предоставить.
 
 <p align="center">
-  <img alt="Data" align="center" src=".github/data-model.png"/>
+  <img alt="Data" align="center" src=".github/post.png"/>
 </p>
 
 ## Ошибки
